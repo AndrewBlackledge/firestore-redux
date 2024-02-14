@@ -1,21 +1,21 @@
 {
-  "name": "@ourway/firebase-template",
+  "name": "@ourway/firestore-redux",
   "version": "0.0.1",
-  "description": "A template for making sveltekit/firebase projects.",
+  "description": "Use firestore as the server-side storage for redux actions.",
   "author": "Alex Nicolaou",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/anicolao/firebase-template.git"
+    "url": "git+ssh://git@github.com/AndrewBlackledge/firestore-redux.git"
   },
   "keywords": [
-    "firebase",
-    "svelte"
+    "firestore",
+    "redux"
   ],
-  "license": "MIT",
+  "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/anicolao/firebase-template/issues"
+    "url": "https://github.com/AndrewBlackledge/firestore-redux/issues"
   },
-  "homepage": "https://github.com/anicolao/firebase-template#readme",
+  "homepage": "https://github.com/AndrewBlackledge/firestore-redux#readme",
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
